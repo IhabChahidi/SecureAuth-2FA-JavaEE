@@ -38,6 +38,7 @@ SecureAuth-2FA-JavaEE/
 │── .classpath                            # Eclipse Classpath File
 │── .project                              # Eclipse Project Metadata
 │── README.md                             # Project Documentation
+│── LICENSE                               # Project License
 ```
 
 ## Installation & Deployment
